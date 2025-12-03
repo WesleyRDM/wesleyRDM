@@ -24,7 +24,7 @@ Minhas áreas principais incluem:
 - 🔧 MLOps (FastAPI, Docker, CI/CD)  
 - 📊 Dashboards e Data Science aplicada  
 
-Atualmente desenvolvo o **Projeto Noesis**, onde exploro a integração de abordagens **conexionista, simbólica e evolutiva**, incluindo a formulação do **VIA (Vetor de Inteligência Adaptativa)** e **VID (Vetor de Inteligência Dinâmica)**.
+Atualmente desenvolvo o **Projeto Noesis**, onde exploro a integração dos **Estados tautológicos da mente** em abordagens **conexionistas, simbólicas e evolutivas** para demonstrar uma nova perspectiva sobre a percepção subjetiva da experiência humana (Qualias).
 
 ---
 
