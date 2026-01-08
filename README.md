@@ -18,8 +18,7 @@ Trabalho tanto com fundamentos matemáticos (gradiente, redes construídas do ze
 Minhas áreas principais incluem:
 
 - 🧠 Redes neurais (do zero e com frameworks)  
-- 🧬 Algoritmos evolutivos para otimização  
-- ⚛️ Computação e Machine Learning Quânticos  
+- 🧬 Algoritmos evolutivos para otimização   
 - 🌌 Simulações inspiradas em Física Teórica  
 - 🔧 MLOps (FastAPI, Docker, CI/CD)  
 - 📊 Dashboards e Data Science aplicada  
@@ -41,9 +40,6 @@ Atualmente desenvolvo o **Projeto Noesis**, onde exploro a integração dos **Es
 
 ## 🧩 Projetos em destaque
 
-### 🔥 Projeto Noesis
-Framework conceitual que une IA conexionista, simbólica e evolutiva para modelar percepção, adaptatividade e inteligência dinâmica.
-
 ### 🧠 Redes Neurais do Zero
 Implementação manual de:
 - função sigmoide e sua derivada  
@@ -57,9 +53,9 @@ Implementação manual de:
 - Modelos PennyLane + PyTorch  
 
 ### 🌌 Simulações de Física Computacional
-- Equação de Schrödinger  
-- Modelo de Ising  
-- Métricas gravitacionais e geodésicas  
+- Lagrangian Data Regularization
+- Regularizacao de dados ruidosos
+- Entropia e Termodinamica 
 
 ### 📈 Dashboards Interativos (Dash + Plotly)
 Aplicações analíticas, filtros, gráficos dinâmicos e APIs.
@@ -86,7 +82,7 @@ FastAPI • Docker
 
 ## 📫 Contato
 
-- **LinkedIn:** https://www.linkedin.com/in/wesley-moura  
+- **LinkedIn:** linkedin.com/in/wesley-moura-392583286
 - **E-mail:** Wesleyrochademoura2017@gmail.com
 
 ---
