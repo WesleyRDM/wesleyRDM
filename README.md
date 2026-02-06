@@ -1,93 +1,48 @@
-<h1 align="center">👋 Olá, eu sou Wesley Moura</h1>
+# Hi, I'm [Seu Nome] | AI Engineer & Data Scientist 🚀
 
-<h3 align="center">
-Cientista de Dados • Engenheiro de Machine Learning • Física Computacional  
-</h3>
-
-<p align="center">
-IA Conexionista • IA Evolutiva • IA Simbólica • QML • Projeto Noesis
-</p>
+Based in **Valencia, Spain**, I specialize in building robust machine learning models and deep learning architectures. My approach combines a strong mathematical foundation in **Matrix Algebra** with hands-on expertise in **PyTorch** and **LLM Orchestration**.
 
 ---
 
-## 🚀 Sobre mim
+### 🛠️ Technical Stack
 
-Sou estudante de Ciência de Dados e pesquisador independente nas áreas de **Inteligência Artificial**, **Engenharia de Machine Learning** e **Física Computacional**.  
-Trabalho tanto com fundamentos matemáticos (gradiente, redes construídas do zero) quanto com ferramentas modernas como **PyTorch**, **TensorFlow**, **PennyLane** e **Qiskit**.
-
-Minhas áreas principais incluem:
-
-- 🧠 Redes neurais (do zero e com frameworks)  
-- 🧬 Algoritmos evolutivos para otimização   
-- 🌌 Simulações inspiradas em Física Teórica  
-- 🔧 MLOps (FastAPI, Docker, CI/CD)  
-- 📊 Dashboards e Data Science aplicada  
-
-Atualmente desenvolvo o **Projeto Noesis**, onde exploro a integração dos **Estados tautológicos da mente** em abordagens **conexionistas, simbólicas e evolutivas** para demonstrar uma nova perspectiva sobre a percepção subjetiva da experiência humana (Qualias).
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), SQL.
+* **Deep Learning:** PyTorch (Neural Networks from scratch, CNNs, MLPs).
+* **Generative AI:** LangChain, LangGraph (AI Agents & RAG).
+* **Mathematics:** Linear Algebra, Calculus, Optimization (Lagrangian Methods).
+* **Data Ops:** End-to-End Pipelines, Data Wrangling, Automated Reporting via Streamlit.
 
 ---
 
-## 📚 Áreas de pesquisa e estudo
+### 🧪 Featured Projects
 
-- **IA Conexionista:** camadas ocultas, gradiente, backpropagation  
-- **IA Evolucionária:** heurísticas e algoritmos genéticos  
-- **IA Simbólica:** representação, inferência e modelos híbridos  
-- **IA Quântica (QML):** modelos variacionais, híbridos e simulações  
-- **Física Computacional:** dinâmica, entropia, sistemas complexos  
-- **Engenharia de ML:** deploy, pipelines, produção de modelos  
+#### 🛰️ [SpaceX Landing Prediction](https://github.com/WesleyRDM/spacex-falcon9-landing-prediction)
+**End-to-End Data Science Project**
+* Developed a complete pipeline to predict the success of SpaceX Falcon 9 first-stage landings.
+* Implemented data collection, cleaning, and exploratory data analysis (EDA).
+* Built and tuned classification models to optimize prediction accuracy, providing insights into mission cost reduction.
 
----
+#### 📉 [Advanced Data Regularization via Lagrangian Methods](https://github.com/WesleyRDM/Lagrangian-Data-Regularization)
+**Mathematical Optimization & Model Stability**
+* Explored data regularization techniques using **Lagrangian multipliers** to improve model generalization.
+* Focused on solving constrained optimization problems to prevent overfitting in complex datasets.
+* Bridged the gap between theoretical calculus and practical machine learning implementation.
 
-## 🧩 Projetos em destaque
-
-### 🧠 Redes Neurais do Zero
-Implementação manual de:
-- função sigmoide e sua derivada  
-- backpropagation  
-- cálculo de gradiente passo a passo  
-- visualização da superfície de erro  
-
-### ⚛️ Quantum Machine Learning
-- Classificadores quânticos  
-- Circuitos variacionais  
-- Modelos PennyLane + PyTorch  
-
-### 🌌 Simulações de Física Computacional
-- Lagrangian Data Regularization
-- Regularizacao de dados ruidosos
-- Entropia e Termodinamica 
-
-### 📈 Dashboards Interativos (Dash + Plotly)
-Aplicações analíticas, filtros, gráficos dinâmicos e APIs.
+#### 🧠 [PyTorch Math Fundamentals: XOR & Beyond](https://github.com/WesleyRDM/pytorch-math-fundamentals)
+**Deep Learning from Scratch**
+* Deconstructed Neural Networks by manually implementing backpropagation, Binary Cross-Entropy, and SGD updates.
+* Focused on numerical stability and decision boundary visualization using Matplotlib/Seaborn.
 
 ---
 
-## 🛠️ Tecnologias
+### 🎓 Certifications & Education
 
-**Linguagens:**  
-Python • Java • R
-
-**Machine Learning:**  
-PyTorch • TensorFlow • Keras • Scikit-Learn
-
-**Ciência de Dados:**  
-NumPy • Pandas • Matplotlib • Plotly • Dash
-
-**Computação Quântica:**  
-PennyLane • Qiskit
-
-**MLOps:**  
-FastAPI • Docker 
----
-
-## 📫 Contato
-
-- **LinkedIn:** linkedin.com/in/wesley-moura-392583286
-- **E-mail:** Wesleyrochademoura2017@gmail.com
+* **IBM:** Professional Certificate in Data Science & Deep Learning with PyTorch.
+* **The University of Hong Kong:** Matrix Algebra for Engineers.
+* **AI Specialization:** LangChain & LangGraph for AI Agents.
 
 ---
 
-<p align="center">
-⭐ Se gostar de algum projeto, considere deixar uma estrela!
-</p>
-
+### 📫 Connect with me:
+* **LinkedIn:** [linkedin.com/in/wesley-moura-392583286
+* **Location:** Valencia, Spain 🇪🇸 (Albors Area)
