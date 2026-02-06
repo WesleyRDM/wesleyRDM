@@ -1,4 +1,4 @@
-# Hi, I'm [Seu Nome] | AI Engineer & Data Scientist 🚀
+# Hi, I'm Wesley Moura | AI Engineer & Data Scientist 🚀
 
 Based in **Valencia, Spain**, I specialize in building robust machine learning models and deep learning architectures. My approach combines a strong mathematical foundation in **Matrix Algebra** with hands-on expertise in **PyTorch** and **LLM Orchestration**.
 
